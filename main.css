@@ -1,0 +1,18 @@
+#t1{
+    color: chartreuse;
+    border-radius: 50vh;
+    background-color: coral;
+    border-bottom: 35ic;
+    background-image: image();
+    text-align: center;
+}
+#bord{
+    border-radius: 0in;
+    box-sizing: content-box;
+    color: rgb(181, 30, 30);ruby-merge:separate;
+    animation-direction: alternate;
+
+}
+#img1b{
+    width: 20%;
+}
